@@ -1,0 +1,11 @@
+*.log
+*.tmp
+*.temp
+.env
+node_modules/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
